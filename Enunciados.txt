@@ -1,0 +1,26 @@
+Ejercicios Ciclo For:
+1.	Contar cuantas veces se repite cada vocal en una cadena ingresada por consola
+2.	Hallar n^m, ambas variables ingresadas por consola
+3.	Hallar el factorial de un número que se ingresa por consola
+4.	Imprimir los números primos que hay del 1 al 10000 (dos ciclos)
+5.	Imprimir por consola las tablas de multiplicar de 1 al 10 (dos ciclos)
+6.	Encriptar una palabra moviendo dos posiciones de cada letra en su valor ascii
+
+Ejercicios Ciclo While
+7.	Hallar cual es el número positivo más grande que se puede expresar con una variable tipo int
+8.	Hallar cuantos dígitos tiene un número ingresado por consola
+9.	Imprimir si una palabra es palíndroma
+10.	Crea una aplicación que dibuje una escalera de números, siendo cada línea números empezando en uno y acabando en el número de la línea. Este es un ejemplo, si introducimos un 5 como altura: 
+	1
+	12
+	123
+	1234
+	12345
+
+11.	Generar 20 números aleatorios entre 1 y 50. Guardarlos en un arreglo e imprimir el promedio
+12.	Guarde en un arreglo al menos 8 instancias de la clase Persona. Una persona tiene nombre, edad, sexo.
+	a.	Imprima cuantas personas son mujeres y cuantos hombres
+	b.	Imprima el promedio de las edades de las mujeres y el promedio de las edades de los  hombres
+	c.	Imprima el nombre de la persona más joven
+	d.	Imprima el nombre de las personas que sobrepasan la edad promedio
+	e.	Imprima en orden alfabético los nombres de las personas
