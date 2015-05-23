@@ -1,4 +1,4 @@
-Ejercicios Ciclo For:
+﻿Ejercicios Ciclo For:
 1.	Contar cuantas veces se repite cada vocal en una cadena ingresada por consola
 2.	Hallar n^m, ambas variables ingresadas por consola
 3.	Hallar el factorial de un número que se ingresa por consola
@@ -25,3 +25,7 @@ Ejercicios Ciclo While
 	c.	Imprima el nombre de la persona más joven
 	d.	Imprima el nombre de las personas que sobrepasan la edad promedio
 	e.	Imprima en orden alfabético los nombres de las personas
+
+13.	A una cadena ingresada por un textarea convertirla a notación CamelCase y snake_case
+14. 	Implementar calculadora básica con arboles
+15. 	Resolver ejercicios de UVa 10115, 10010, 10921
